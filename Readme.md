@@ -25,6 +25,7 @@ firebase projects:list
 ```
 firebase init
 ```
+This will provide different options like which Firebase services to use, path to application code, github action setup and much more.
 
 4. Serve and test locally
 ```
